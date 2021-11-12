@@ -52,4 +52,4 @@ My favourite of Plath's work is *Elm* and *The Moon and the Yew Tree*. I love th
         
 <p> As noted, Plath chooses not to capitalise "god". Perhaps this is a rejection of traditional approaches to religion and the concept of deities, or perhaps this is a further complication of the Faun's identity, that he is not a true God but a false deity, or at the very least a god of limited power. </p> 
       
-<img src="https://Kaz-Michael.github.io/" />
+<img src="https://Kaz-Michael.github.io/Faun.jpeg" />
