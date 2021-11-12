@@ -7,7 +7,7 @@ My favourite of Plath's work is 'Elm' and 'The Moon and the Yew Tree'. I love th
 ## Collected Poems - 1956
 
 
-### Key Themes - 1956
+### Key Themes
 Although I've yet to finish the 1956 collection of Plath's poems, I have so far noticed many recurring themes in her work as well as spotting her emerging style and her earlier experimentation which will eventually lead to her final collection Ariel.
 
 **Birds:**
