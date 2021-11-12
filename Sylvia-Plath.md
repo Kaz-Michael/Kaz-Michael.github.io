@@ -18,7 +18,7 @@ Plath also mentions other birds such as "peacocks", using these as signs of masc
 
 **The Moon:**
 
-Plath is possibly most well known for her frequent reference to the moon. Throughout her work she refers to the moon as a friend, as a careless or even cruel 'other', and even as a symbol of her mother. In the 1956 poems it is notable that the moon is referred to in a positive light, although equally as something seperate and "celestial", distant from Plath no matter how much she might admire the moon. Plath wields the imagery of the moon to create incredible nighttime scenes and an overall tone of piece and awe.
+Plath is possibly most well known for her frequent reference to the moon. Throughout her work she refers to the moon as a friend, as a careless or even cruel 'other', and even as a symbol of her mother. In the 1956 poems it is notable that the moon is referred to in a positive light, although equally as something seperate and "celestial", distant from Plath no matter how much she might admire the moon. Plath wields the imagery of the moon to create incredible nighttime scenes and an overall tone of peace and awe.
 
 **Water:**
 
