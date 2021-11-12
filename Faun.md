@@ -3,6 +3,6 @@
 
 Throughout the poem however, no matter what state the 'man' is in, he is an outsider. He might call to the owls and they come to see him but they do so for him as an outsider. Even when finally transformed in the final stanza, he is still above the other creates around him as a 'god' (note this word, however, is not capitalised). In this way, the 'man' is not fully man (not so much as given a name) but equally is not fully animal. He is ina state of in-between.
 
-As noted, Plth chooses not to capitalise 'god'. Perhaps this is a rejection of traditional approaches to religion and the concept of deities. More so, this is a futher complication of the faun's identity, that he is not a true God but a false deity, or at the very elast a god of limited power, underserving of a capitalised title. 
+As noted, Plath chooses not to capitalise 'god'. Perhaps this is a rejection of traditional approaches to religion and the concept of deities. More so, this is a futher complication of the faun's identity, that he is not a true God but a false deity, or at the very elast a god of limited power, underserving of a capitalised title. 
 
 <img src="https://Kaz-Michael.github.io/Faun.jpeg" />
