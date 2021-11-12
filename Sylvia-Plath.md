@@ -7,7 +7,9 @@ My favourite of Plath's work is *Elm* and *The Moon and the Yew Tree*. I love th
 ## Collected Poems - 1956
 
 
-### Key Themes
+<details>
+  <summary> ### Key Themes </summary>
+  <br>
 Although I've yet to finish the 1956 collection of Plath's poems, I have so far noticed many recurring themes in her work as well as spotting her emerging style and her earlier experimentation which will eventually lead to her final collection Ariel.
 
 **Birds:**
@@ -35,3 +37,4 @@ Tide by tide,
 To undo him, perpetually),"
 
 These lines portay the sea both as powerful but predictable and aimless; as violent but soothing (with the alliteration in "essaying"); as something admirable but equally something powerless in comparison to the "Purist" subject of the poem. The use of sibilance and dental alliteration create a smooth series of phrases, reflecting the methodical sway of the ocean. Unlike much of Plath's later work, the stanzas in 1956 are often much longer, however I love the use of very short lines and phrases which she continues to use for much of her poetry. Furthermore, the use of rhyme in the poem continues to create a sense of routine and predictability much like the tide of the sea. 
+</details>
