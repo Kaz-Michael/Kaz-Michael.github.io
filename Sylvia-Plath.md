@@ -44,6 +44,6 @@ My favourite of Plath's work is *Elm* and *The Moon and the Yew Tree*. I love th
     <br>
     <p> In this section I have written a few mini analysis of Plath's poems, and I have also uploaded photographs of my book annotations. I will also highlight the key themes from the previous section as seen in the poems themselves. </p>
     
-<p> <b> Faun </b> </p> 
+<p> <b> <a href="Faun.html"> Faun </a> </b> </p> 
       
   
