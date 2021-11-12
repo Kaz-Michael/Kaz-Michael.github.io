@@ -44,7 +44,7 @@ My favourite of Plath's work is *Elm* and *The Moon and the Yew Tree*. I love th
     <br>
     <p> In this section I have written a few mini analysis of Plath's poems, and I have also uploaded photographs of my book annotations. I will also highlight the key themes from the previous section as seen in the poems themselves. <p>
     
-    <p> <b> Faun <b> <p> 
+<p> <b> Faun <b> <p> 
       
 <p> <i> Faun <i> begins as (as the name might suggest) a story of a faun but then it is revealed that this faun is actually a man. Just as the reader thinks they understand who he is, he (re)transforms into a faun. This creates a sense of circularity to the poem, and explores a sense of the entanglement between internal nature and reality, and the duality of humanity and nature. This narrative of confusion doesn't appear to have a sense of internal distress on Plath's part, but is instead an exploration of the magical and unusual, and the complexity of identity. <p> 
 
@@ -52,4 +52,4 @@ My favourite of Plath's work is *Elm* and *The Moon and the Yew Tree*. I love th
         
 <p> As noted, Plath chooses not to capitalise "god". Perhaps this is a rejection of traditional approaches to religion and the concept of deities, or perhaps this is a further complication of the Faun's identity, that he is not a true God but a false deity, or at the very least a god of limited power. <p> 
       
-      <img src="https://Kaz-Michael.github.io/" />
+<img src="https://Kaz-Michael.github.io/" />
