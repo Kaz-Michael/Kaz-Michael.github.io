@@ -22,7 +22,9 @@ Plath is possibly most well known for her frequent reference to the moon. Throug
 
 **Water:**
 
-Plath explores water imagery in a much more diverse way than any other motifs in her work. With poems dedicated to the ocean as a violent and powerful force at one end, and at the other a simple "black pond". In *Tale of a Tub* Plath's water imagery is not that of nature but that of a bathroom, using the lifeless surroundings to reflect an internal loss of certainty and meaning. My personal favourite is the first stanza of *Letter to a Purist*:
+Plath explores water imagery in a much more diverse way than any other motifs in her work. With poems dedicated to the ocean as a violent and powerful force at one end, and at the other a simple "black pond". In *Tale of a Tub* Plath's water imagery is not that of nature but that of a bathroom, using the lifeless surroundings to reflect an internal loss of certainty and meaning. She describes a "photographic chamber", and the room as "merely actual". The descriptions are bare and sad, with Plath finding solace only in the reality of her environment rather than the actual physicality of it. 
+
+My personal favourite of Plath's exploration of water so far is in the first stanza of *Letter to a Purist*:
 
 "The envious assults of sea
 
