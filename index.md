@@ -4,3 +4,5 @@ Welcome to Michael/Kaz's blog. I am passionate about many things including poetr
 [Sylvia Plath](./Sylvia-Plath.html)
 
 [Photography](./Photography.html)
+
+[Recipes](./Recipes.html)
