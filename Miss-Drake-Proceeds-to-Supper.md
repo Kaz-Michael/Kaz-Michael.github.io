@@ -14,3 +14,4 @@ Having said that she is attempting to protect herself, Miss Drake spends the vas
 
 All of this mental disarray however is offset by the optimistic (or at least relieving) ending. Miss Drake reaches the "still, sultry" safety of the dining room, having traversed the dangers of the corridor to get there. In this way therefore perhaps there is hope for Miss Drake, with a hopeful ending to the poem offering potential redemption from insanity. 
 
+![alt_text](Miss-Drake.jpeg)
