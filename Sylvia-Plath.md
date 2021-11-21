@@ -4,6 +4,16 @@ I'm an incredibly passionate fan of Sylvia Plath's work and I'm currently readin
 
 My favourite of Plath's work is *Elm* and *The Moon and the Yew Tree*. I love the exploration of nature and I find the lines incredibly moving, especially "I have suffered the atrocity of sunsets" and "I simply cannot see where there is to get to". Although Plath's work is oftentimes very depressing and emotional, I also find her incredibly hopeful and uplifting, seeing how she found solice in the beauty of the world and in writing poetry. 
 
+## Ariel ##
+
+<details>
+  <summary> <h3> Poem Analysis and Mini Essays </h3> </summary>
+  <br>
+  <p> In this section I have written a few mini analysis of Plath's poems, and I have also uploaded photographs of my book annotations. I also take note of key themes that occurr in the collection and their connection to other sections and their key themes. </p> 
+  
+   <p> <b> <a href="Elm.html"> Elm </a> </b> </p>
+ </details>
+
 ## Collected Poems - 1956
 
 
@@ -46,6 +56,7 @@ My favourite of Plath's work is *Elm* and *The Moon and the Yew Tree*. I love th
     
 <p> <b> <a href="Faun.html"> Faun </a> </b> </p> 
   <p> <b> <a href="Miss-Drake-Proceeds-to-Supper.html"> Miss Drake Proceeds to Supper </a> </b> </p>       
-  <p> <b> <a href="Elm.html"> Elm </a> </b> </p>
+
+  </details>
   
   
