@@ -4,7 +4,7 @@ Written as the dramatic monologue of a tree, mediated through the voice of Plath
 
 Elms themselves are associated with rebirth and revival (but in order for rebirth and resurrection there must first be death or a sacrifice). They are also associated as trees with great knowledge and wisdom, having been here on earth for centuries before humanity and the individual speaker/reader. As with much of Plath's poetry, she personifies the Elm as a woman of immense knowledge and power (which she also does with the Moon later on in the poem). 
 
-![alt_text](Elm1.jpg)
+![alt_text](Elm1.jpeg)
 
-![alt_text](Elm2.JPG)
+![alt_text](Elm2.jpeg)
  
