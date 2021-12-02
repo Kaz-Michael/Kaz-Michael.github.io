@@ -1,6 +1,6 @@
 # Recipes
 <details>
-  <summary> <h3> Apple and saltana Crumble </h3> </summary>
+  <summary> <h3> Apple and Sultana Crumble </h3> </summary>
   <br>
   <p> This recipe makes 12~ portions. I personally serve it with custard but it also works with thick cream or ice cream. 
   
