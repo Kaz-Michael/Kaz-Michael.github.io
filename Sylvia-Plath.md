@@ -27,6 +27,8 @@ My favourite of Plath's work is *Elm* and *The Moon and the Yew Tree*. I love th
   <p> <b> Birds: </b> </p>
 
   <p> Plath uses birds in many interesting ways in poems such as <i>Conversation Among the Ruins</i> where she mentions both "rooks croak" and "peacocks". The repetition of rooks is especially notable as they are often used in a way to explore isolation and companionship. In <i>Conversation Among the Ruins</i> Rooks are presented as a unified chorus, seperated from the speaker who is in a state of turmoil. In <i>Winter Landscape</i> Plath compares herself to a Rook, in isolation. Even later, in <i>Prospect</i> Plath describes "two black rooks". In this way therefore Rooks are presented in various stages of companionship, but are also often ominous signs of turmoil and "havoc". </p>
+  
+  <p> My personal favourite exploration of Rooks in 1956 is in <i>Black Rook in Rainy Weather</i>. This optimistic exploration of joy and contentment with the everyday, perfused with holy imagery of "angels" juxtaposed with earthly "rook", bird imagery, creates an interesting and engaging dynamic. I am not ashamed to say this poem, especially the line "I do not expect a miracle", reduced me to tears. </p>
 
   <p> Plath also mentions other birds such as "peacocks", using these as signs of masculinity and frivolity, although not neccesarily in a disparaging way. Plath uses Peacocks and other birds as a way of creating a lexical field of colour, contrasting vibrant birds with grey crows and rooks, as a way of connoting tone and creating atmosphere. Often Plath's mood when writing these poems is reflected in her choice of bird as a reference. </p>
 
