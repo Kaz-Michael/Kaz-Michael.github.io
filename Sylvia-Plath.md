@@ -68,6 +68,10 @@ My favourite of Plath's work is *Elm* and *The Moon and the Yew Tree*. I love th
   
   <p> Plath uses lots of colour imagery in her work, especially colours such as blue and orange, however I especially noted her frequent use of the colour green. Green is often associated with nature and life, which is often how Plath uses the colour as well, however she also uses the colour to create a sense of the unnatural or disturbing. Her use of "emerald" in <i>Ella Mason and her Eleven Cats</i>, for example, aligns Ella - the crazy cat lady - with her cats to create a strange simbiotic relationship between them in the description, further adding to the strangeness and the accompanying pity that the narrator feels for her. </p>
   
+  <p> <b> Gender Conflict: </b> </p>
+  
+  <p> Plath is well known as a feminist writer, exploring ideas of female oppresion and male violence frequently in her work (especially in her later work in <i>Ariel</i>. However, in a few of her poems in 1956, Plath explores ideas of homosocial female conflict which I found incredibly engaging and interesting. In this way therefore, Plath's poems explore both heterosexual conflict between male violence and female subservience (and female resistance) as well as homosocial conflict amongst women, exacerbated by heteronormative binary society. </p>
+  
 </details>
 
 <details>
