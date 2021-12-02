@@ -22,7 +22,7 @@ My favourite of Plath's work is *Elm* and *The Moon and the Yew Tree*. I love th
 <details>
   <summary> <h3> Key Themes </h3> </summary>
   <br>
-  <p> Although I've yet to finish the 1956 collection of Plath's poems, I have so far noticed many recurring themes in her work as well as spotting her emerging style and her earlier experimentation which will eventually lead to her final collection Ariel. </p>
+  <p> I have noticed many recurring themes in her work as well as spotting her emerging style and her earlier experimentation which will eventually lead to her final collection Ariel. </p>
 
   <p> <b> Birds: </b> </p>
 
@@ -30,9 +30,11 @@ My favourite of Plath's work is *Elm* and *The Moon and the Yew Tree*. I love th
 
   <p> Plath also mentions other birds such as "peacocks", using these as signs of masculinity and frivolity, although not neccesarily in a disparaging way. Plath uses Peacocks and other birds as a way of creating a lexical field of colour, contrasting vibrant birds with grey crows and rooks, as a way of connoting tone and creating atmosphere. Often Plath's mood when writing these poems is reflected in her choice of bird as a reference. </p>
 
-  <p> <b> The Moon: </b> </p>
+  <p> <b> Astrology, especially the moon: </b> </p>
 
   <p> Plath is possibly most well known for her frequent reference to the moon. Throughout her work she refers to the moon as a friend, as a careless or even cruel 'other', and even as a symbol of her mother. In the 1956 poems it is notable that the moon is referred to in a positive light, although equally as something seperate and "celestial", distant from Plath no matter how much she might admire the moon. Plath wields the imagery of the moon to create incredible nighttime scenes and an overall tone of peace and awe. </p>
+  
+  <p> Plath also refers to the sun and the stars a lot in her descriptive imagery; these are often used to convey beauty of nature and hopefullness, as well as being used in metaphors such as "death/shatters the fabulous stars" in <i>Tale of a Tub</i>. I especially love her astrological imagery as I always find it stunning and inspirational.
 
   <p> <b> Water: </b> </p>
 
@@ -49,6 +51,23 @@ My favourite of Plath's work is *Elm* and *The Moon and the Yew Tree*. I love th
   <p> To undo him, perpetually)," </p>
 
   <p> These lines portay the sea both as powerful but predictable and aimless; as violent but soothing (with the alliteration in "essaying"); as something admirable but equally something powerless in comparison to the "Purist" subject of the poem. The use of sibilance and dental alliteration create a smooth series of phrases, reflecting the methodical sway of the ocean. Unlike much of Plath's later work, the stanzas in 1956 are often much longer, however I love the use of very short lines and phrases which she continues to use for much of her poetry. Furthermore, the use of rhyme in the poem continues to create a sense of routine and predictability much like the tide of the sea. </p>
+  
+  <p> <b> Supernatural, especially mythological and religious: </b> </p>
+  
+  <p> Plath often uses Greek mythology in her work both in the subject of her poetry, such as in <i>Conversation Among the Ruins</i> whcih is based on Giorgio de Chirico's 1927 painting of the same name, and also in her description and metaphors. She especially refers to mythological creatures and characters such as the cyclops, sirens, nymphs, and gods. </p>
+  
+  <p> She also uses a lot of religious imagery, especially that of catholicism (although she refers to other religions as well). Plath uses imagery of angels a lot, sometimes as 'guardian' companions and other times as potentially dangerous enemies. One example of this subversion of the traditional representation of angels is in <i>Channel Crossing</i>, where she describes how the sea and ice "wrestle with us like angels". Whilst angels are usually (both in general literature and in Plath's work) used to convey safety and holiness, here Plath uses the imagery to create a scene of violence and destruction. </p>
+  
+  <p> Finally, Plath in general wields supernatural imagery by personifying and anthropomorphosising the everyday world; she uses dream-like description and experiences to make the everyday seem other or supernatural. I especially love this aspect of Plath's work as she wields the supernatural and unsual in order to convey internal conflict and emotions and to create uncertainty. </p>
+  
+  <p> <b> Fire: </b> </p>
+  
+  <p> Plath uses fire in many different ways in her poems. In 1956 she uses it to convey rage and passion, often alongside Gender Conflict, as well as to convey inspiration or hope. These two conflicting approaches to fire, as well as the contrasting water imagery throughout her work, creates an interesting binary opposition. </p> 
+  
+  <p> <b> The Colour Green: </b> </p>
+  
+  <p> Plath uses lots of colour imagery in her work, especially colours such as blue and orange, however I especially noted her frequent use of the colour green. Green is often associated with nature and life, which is often how Plath uses the colour as well, however she also uses the colour to create a sense of the unnatural or disturbing. Her use of "emerald" in <i>Ella Mason and her Eleven Cats</i>, for example, aligns Ella - the crazy cat lady - with her cats to create a strange simbiotic relationship between them in the description, further adding to the strangeness and the accompanying pity that the narrator feels for her. </p>
+  
 </details>
 
 <details>
