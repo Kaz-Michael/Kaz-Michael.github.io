@@ -83,7 +83,7 @@ My favourite of Plath's work is *Elm* and *The Moon and the Yew Tree*. I love th
     
 <p> <b> <a href="Faun.html"> Faun </a> </b> </p> 
   <p> <b> <a href="Miss-Drake-Proceeds-to-Supper.html"> Miss Drake Proceeds to Supper </a> </b> </p>
-  <p> <b> <a href="Black-Rook-in-rainy-weather.html"> Black Rook in Rainy Weather </a> </b> </p>
+  <p> <b> <a href="Black-Rook-in-Rainy-Weather.html"> Black Rook in Rainy Weather </a> </b> </p>
   
 
   </details>
