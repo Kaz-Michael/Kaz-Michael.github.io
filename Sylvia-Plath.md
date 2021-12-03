@@ -23,6 +23,7 @@ My favourite of Plath's work is *Elm* and *The Moon and the Yew Tree*. I love th
   <summary> <h3> Key Themes </h3> </summary>
   <br>
   <p> I have noticed many recurring themes in her work as well as spotting her emerging style and her earlier experimentation which will eventually lead to her final collection Ariel. In the photos from her work take note of the colour-coded highlighting, pointing out these themes in each poem as I go in order to help me keep track of the recurring themes. </p>
+  <ul> <li> Birds = Green </li> <li> Gender Conflict = Pink </li> <li> Astrology, the moon and sun = Orange </li> <li> Water = Blue/green </li> <li> Supernatural = Yellow <li> <li> Fire = Purple underline </li> <li> Green = Green underline </li> </ul>
 
   <p> <b> Birds: </b> </p>
 
