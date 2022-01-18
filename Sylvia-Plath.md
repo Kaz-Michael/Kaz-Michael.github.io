@@ -89,6 +89,8 @@ My favourite of Plath's work is *Elm* and *The Moon and the Yew Tree*. I love th
 
   </details>
   
+  <br>
+  
   ## Collected Poems - 1957
   
   <details>
