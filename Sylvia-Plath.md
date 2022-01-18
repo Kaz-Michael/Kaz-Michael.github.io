@@ -133,5 +133,6 @@ My favourite of Plath's work is *Elm* and *The Moon and the Yew Tree*. I love th
   <p> As suggested by the title of this theme, Plath frequently creates a dismal atmosphere. One of the key ways she achieves this is through a cold, unfeeling lexical field of harsh materials and feelings. Notable exampls are the poems <i> Hardcastle Crags, The Thin People,</i> and <i> All The Dead Dears </i>, amongst others. Plath achieves this not only with mentions of stones and greyness, but also with other hard materials and unfeeling environments such as the theme of wood in <i> The Disquieting Muses </i> which describes the eerie and ominous wooden mannequin figures in the Giorgio de Chirico painting of the same name. </p>
 
 </details> 
+
 <details>
   <summary> <h3> Poem Analysis and Mini Essays </h3> </summary>
