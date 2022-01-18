@@ -119,9 +119,16 @@ My favourite of Plath's work is *Elm* and *The Moon and the Yew Tree*. I love th
   <p> <b> Green: </b> </p>
   <p> Plath uses the colour green in many different ways. On the one hand, she uses it to describe lush landscapes and seascapes, to create a postiive atmosphere of health and plentifullness, as in <i> On the Difficulty of Conjuring Up a Dryad </i>. On the other hand, on rarer occasions Plath goes on to use the colour to convey a sense of illness, conflict, or unreality. </p>
   
+  <p> <b> Trees: </b> </p>
+  <p> This theme recurrs infrequently throughout Plath's poetry in general. Notably she uses trees a lot in reference to dryads and mythology in this section. </p>
+  
+  <p> <b> Black and White: </b> </p>
+  <p> Heavily entangled with the theme of stones, Plath uses this theme to convey conflict and create a dismal, hopeless atmosphere. The colour white (and grey) is arguably more frequent than black, however is not used in the sense of purity but rather blankness and emptiness. Plath generally uses this theme of create a sense of hopelessness. </p> 
+  
   <p> <b> Dreams/Unreality: </b> </p>
   <p> In general, Plath's writing style tends to create an atmosphere of uncertainty, with shifting locations and narratives. However, this reaches new hights with her poems inspired by the symbolist painter Giorgio de Chirico near the end of 1957. I often find it difficult not to highlight every poem in her collection with this theme, as it comes up so often and is often incredibly subtle or shifitng; therefore I have only highlighted instances where it is especially notable or impactful. </p>
   
   <p> <b> Stones, etc: </b> </p>
   <p> As suggested by the title of this theme, Plath frequently creates a dismal atmosphere. One of the key ways she achieves this is through a cold, unfeeling lexical field of harsh materials and feelings. Notable exampls are the poems <i> Hardcastle Crags, The Thin People,</i> and <i> All The Dead Dears </i>, amongst others. Plath achieves this not only with mentions of stones and greyness, but also with other hard materials and unfeeling environments such as the theme of wood in <i> The Disquieting Muses </i> which describes the eerie and ominous wooden mannequin figures in the Giorgio de Chirico painting of the same name. </p>
+  </details> 
   
