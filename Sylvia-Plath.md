@@ -135,5 +135,3 @@ My favourite of Plath's work is *Elm* and *The Moon and the Yew Tree*. I love th
   
 <details>
   <summary> <h3> Poem Analysis and Mini Essays </h3> </summary>
-  
-  
