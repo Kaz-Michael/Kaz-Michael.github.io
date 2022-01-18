@@ -16,7 +16,7 @@ My favourite of Plath's work is *Elm* and *The Moon and the Yew Tree*. I love th
  
 <br>
 
-## Collected Poems - 1956
+## Collected Poems - 1956 ##
 
 <details>
   <summary> <h3> Key Themes </h3> </summary>
@@ -90,7 +90,7 @@ My favourite of Plath's work is *Elm* and *The Moon and the Yew Tree*. I love th
   
   <br>
   
-##Collected Poems - 1957
+## Collected Poems - 1957 ##
   
   <details>
   <summary> <h3> Key Themes </h3> </summary>
