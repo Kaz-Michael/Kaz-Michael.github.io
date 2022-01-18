@@ -9,3 +9,4 @@ I also took this photo on the same journey home from Ashton Court. I love the sh
 
 ![alt_text](the_lonely_woman.JPG)
 Of all the photos I took on my trip to the British museum with my friend, this was one of my favourites. A companion shot to it shows the same scene with many people moving up and down the staircase - all motion blurred because of the low shutter-speed. This moment portrays the timelessness of the statues - that they have both lasted as long as they have, and that they still evoke emotions and wonder today - but also the consequential loneliness I felt when looking at her. She is both human but simultaneously other - she is like us, yet isolated. The photo itself is rather blurry, the photography skills lacking (not a surprise, seeming as I took the photo) but the image itself is wondrous. 
+![alt_text](the_woman.JPG)
