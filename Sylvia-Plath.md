@@ -89,4 +89,39 @@ My favourite of Plath's work is *Elm* and *The Moon and the Yew Tree*. I love th
 
   </details>
   
+  ## Collected Poems - 1957
+  
+  <details>
+  <summary> <h3> Key Themes </h3> </summary>
+  <br>
+  <p> Some themes continue from 1956, however there are also some new themes that emerge. </p>
+  
+  <ul> <li> Birds = Green </li> <li> Gender Conflict = Pink </li> <li> Astrology = Orange </li> <li> Water = turqoise </li> <li> Supernatural, especially mythology and religion = Yellow </li> <li> Fire = Purple Underline </li> <li> Colour Green = Green underline </li> <li> Trees = Blue Underline </li> <li> Black and White, often in contrast = Green Star </li> <li> Dreams/Unreality = Pink Underline </li> <li> Stones, Earth, Greyness, Blankness = Red Underline </li> </ul>
+  
+  <p> <b> Birds: </b> </p>
+  <p> As in 1956, Plath especially focusses on Rooks and other corvids at the beginning of 1957. By the end of 1957, however, this interest seems to fade and is replaced with a new resurgence and infatuation with Greek mythology as well as interest in art. However, some still notable quotations where mentions of birds are especially impactful is the imagery of chaos and death in <i> Snowman on the Moor </i> "and at his tread// ambushed birds by/ dozens dropped dead in the hedges". Later on, Plath uses similarly grim imagery in <i> The Lady and the Earthenware Head </i>, where she describes the grim stone head wedged in a tree, saying "let bell-tongued birds descant in blackest feather" over the bust. </p>
+  
+  <p> <b> Gender Conflict: </b> </p>
+  <p> As Plath's poetry continues, her femenist tone and use of gender conflict becomes more and more refined. Arguably my favourite poem from this section, <i> The Disquieting Muses </i>, a poem inspired by the Giorgio de Chirico painting of the same name, explores gender conflict fabulously by portraying conflict amongst only women. The main source of conflict and resentment is targeted at her mother, who she resents for being overbearing and enforcing societal expectations onto her. However an overpowering presences of the "muses" themselves, both companions and antagonists to Plath throughout the poem, further addds to the sense of female conflict. Whilst there are three muses both in the painting and mentioned at the beginning of the poem, Plath only specifies and explores two of them: Terpischore, the muse of dance, and Euterpe, muse of music. They represent therefore not only the conflict Plath feels at the enforced gender norms of her society, enforced so forcefully by her mother during her childhood, but also the resentment and furstration she feels at never having been able to attain those standards. </p> 
+  
+  <p> <b> Astrology: </b> </p>
+  <p> As usual, the most notable astrological theme is of the moon. The stars also are mentioned frequently and are often personified, for instance in <i> All the Dead Dears </i> Plath descibres the "Stars grinding, crumb by crumb". Through this, therefore, astrology and the cosmic suddenly takes on a rather more ominous tone. Whereas before the moon, sun, and stars, have been a sign of strength or of scenic beauty, they quickly are growing to become sources of conflict and insidious negativity. </p>
+  
+  <p> <b> Water: </b> </p>
+  <p> Lots of sea imagery is used throughout 1957. Also notable is many mentions of moor imagery, likely inspired by Plath's time spent in West Yorkshire. </p>
+  
+  <p> <b> Supernatural: </b> <p>
+  <p> Throughout there is emphasis on Greek mythology, from both beasts, Gods, culture, and other characters. Plath also shows an interest in Ghosts, unspurising as she often dabbled in the occult, using a homemade Ouija board to commune with the dead alongside Ted and some of their friends. This is especially notable in her poem <i> Ouija </i> in which she describes such a night, communing with the character Pan, who she frequently encountered. </p>
+  
+  <p> <b> Fire: </b> </p>
+  <p> Presented as a source of passion and an indication of life and health. </p>
+  
+  <p> <b> Green: </b> </p>
+  <p> Plath uses the colour green in many different ways. On the one hand, she uses it to describe lush landscapes and seascapes, to create a postiive atmosphere of health and plentifullness, as in <i> On the Difficulty of Conjuring Up a Dryad </i>. On the other hand, on rarer occasions Plath goes on to use the colour to convey a sense of illness, conflict, or unreality. </p>
+  
+  <p> <b> Dreams/Unreality: </b> </p>
+  <p> In general, Plath's writing style tends to create an atmosphere of uncertainty, with shifting locations and narratives. However, this reaches new hights with her poems inspired by the symbolist painter Giorgio de Chirico near the end of 1957. I often find it difficult not to highlight every poem in her collection with this theme, as it comes up so often and is often incredibly subtle or shifitng; therefore I have only highlighted instances where it is especially notable or impactful. </p>
+  
+  <p> <b> Stones, etc: </b> </p>
+  <p> As suggested by the title of this theme, Plath frequently creates a dismal atmosphere. One of the key ways she achieves this is through a cold, unfeeling lexical field of harsh materials and feelings. Notable exampls are the poems <i> Hardcastle Crags, The Thin People,</i> and <i> All The Dead Dears </i>, amongst others. Plath achieves this not only with mentions of stones and greyness, but also with other hard materials and unfeeling environments such as the theme of wood in <i> The Disquieting Muses </i> which describes the eerie and ominous wooden mannequin figures in the Giorgio de Chirico painting of the same name. </p>
   
