@@ -111,7 +111,7 @@ My favourite of Plath's work is *Elm* and *The Moon and the Yew Tree*. I love th
   <p> <b> Water: </b> </p>
   <p> Lots of sea imagery is used throughout 1957. Also notable is many mentions of moor imagery, likely inspired by Plath's time spent in West Yorkshire. </p>
   
-  <p> <b> Supernatural: </b> <p>
+  <p> <b> Supernatural: </b> </p>
   <p> Throughout there is emphasis on Greek mythology, from both beasts, Gods, culture, and other characters. Plath also shows an interest in Ghosts, unspurising as she often dabbled in the occult, using a homemade Ouija board to commune with the dead alongside Ted and some of their friends. This is especially notable in her poem <i> Ouija </i> in which she describes such a night, communing with the character Pan, who she frequently encountered. </p>
   
   <p> <b> Fire: </b> </p>
@@ -131,7 +131,7 @@ My favourite of Plath's work is *Elm* and *The Moon and the Yew Tree*. I love th
   
   <p> <b> Stones, etc: </b> </p>
   <p> As suggested by the title of this theme, Plath frequently creates a dismal atmosphere. One of the key ways she achieves this is through a cold, unfeeling lexical field of harsh materials and feelings. Notable exampls are the poems <i> Hardcastle Crags, The Thin People,</i> and <i> All The Dead Dears </i>, amongst others. Plath achieves this not only with mentions of stones and greyness, but also with other hard materials and unfeeling environments such as the theme of wood in <i> The Disquieting Muses </i> which describes the eerie and ominous wooden mannequin figures in the Giorgio de Chirico painting of the same name. </p>
-  </details> 
-  
+
+</details> 
 <details>
   <summary> <h3> Poem Analysis and Mini Essays </h3> </summary>
