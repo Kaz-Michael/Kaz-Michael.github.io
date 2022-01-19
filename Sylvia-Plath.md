@@ -136,3 +136,4 @@ My favourite of Plath's work is *Elm* and *The Moon and the Yew Tree*. I love th
 
 <details>
   <summary> <h3> Poem Analysis and Mini Essays </h3> </summary>
+  <p> <b> <a href="On_The_Decline_of_Oracles.html"> One the Decline of Oracles </a> </b> </p> 
