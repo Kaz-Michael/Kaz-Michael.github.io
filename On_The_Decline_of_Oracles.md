@@ -1,6 +1,11 @@
 # On the Decline of Oracles #
 
-First and foremost it is important for me to note that there are two versions of the same poem. The version I am using is from the <i> Collected Poems </i>, with four stanzas (seen in the photo below). However, there is an alternate poem with omly three stanzas (written on the outisde alongside the poem photo below). Unfortunately, I have been unable to find any substantial information about the two versions of the poem, only that the version I am using is a later verson and that the first version is much more clealry inspired by Chirico's writings, as explored below. 
+First and foremost it is important for me to note that there are two versions of the same poem. The version I am using is from the <i> Collected Poems </i>, with four stanzas (seen in the photo below). However, there is an alternate poem with omly three stanzas (written on the outisde alongside the poem photo below). Unfortunately, I have been unable to find any substantial information about the two versions of the poem, only that the version I am using is a later verson and that the first version is much more clealry inspired by Chirico's writings, as explored below.
+
+![alt_text](declineoforacles.JPG)
+
+![alt_text](declineoforacles2.JPG)
+
 
 Whilst the poem mentions the swiss symbolist painter, Böcklin, his painting 'Isle of the Dead' has very actual tangible influence over the poem other than the strong presence of water and ocean imagery. Similarly, Giorgio de Chirico's painting 'The Enigma of Oracles' has very loose inspiration over the poem. In fact, the poem is more influenced by Chirico's own writings about his painting than the painting itself.
 
