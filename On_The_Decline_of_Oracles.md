@@ -7,7 +7,7 @@ First and foremost it is important for me to note that there are two versions of
 ![alt_text](declineinoracles2.jpeg)
 
 
-Whilst the poem mentions the swiss symbolist painter, Böcklin, his painting 'Isle of the Dead' has very actual tangible influence over the poem other than the strong presence of water and ocean imagery. Similarly, Giorgio de Chirico's painting 'The Enigma of Oracles' has very loose inspiration over the poem. In fact, the poem is more influenced by Chirico's own writings about his painting than the painting itself.
+Whilst the poem mentions the swiss symbolist painter, Böcklin, his painting 'Isle of the Dead' has very little tangible influence over the poem other than the strong presence of water and ocean imagery. Similarly, Giorgio de Chirico's painting 'The Enigma of Oracles' has very loose inspiration over the poem. In fact, the poem is more influenced by Chirico's own writings about his painting than the painting itself.
 
 More than about art, Plath is really exploring her resentment for her father for abandoning her, with the narrative of the poem being that she believes her father has sent her ghosts or characters in order to torment her and cause "evil" in her life. However, whilst there are certainly feelings of resentment and blame, and perhaps fear of her father's deathly abilities to haunt her, the overbering feeling of the poem is one of loss - of absences. Her father is a figure from her past, the only tangible remains of him lost to someone else, and even the messages that he sends Plath are itangible. Ultimately, the "decile" that Plath is referring to, most notably in the title, is that of her own father - he is the loss of oracle in her life, he is the absence that she cannot fill or replace.
 
